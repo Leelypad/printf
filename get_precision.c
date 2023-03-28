@@ -1,4 +1,4 @@
-#include "main.h"
+u#include "main.h"
 
 /**
  * get_precision - Calculates the precision for printing
@@ -39,4 +39,5 @@ int get_precision(const char *format, int *i, va_list list)
 
 	return (precision);
 }
+
 
